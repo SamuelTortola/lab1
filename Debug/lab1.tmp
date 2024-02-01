@@ -1,0 +1,189 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Programas\Microchip studio\7.0\Packs\Atmel\ATmega_DFP\2.1.506\avrasm\inc</DIR>
+  <DIR>D:\Programas\Microchip studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Programas\Microchip studio\7.0\Packs\Atmel\ATmega_DFP\2.1.506\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>D:/Programas\Microchip studio\7.0\Packs\Atmel\ATmega_DFP\2.1.506\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\Debug\lab1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab1.map</FILE>
+  <FILE>lab1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>35</LINE></SETUP>
+  <LOOP><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>66</LINE></LOOP>
+  <DelayBounce1><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>87</LINE></DelayBounce1>
+  <DelayBounce12><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>328</LINE></DelayBounce12>
+  <DelayBounce121><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>564</LINE></DelayBounce121>
+  <DelayBounce122><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>761</LINE></DelayBounce122>
+  <DelayBounce7><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>961</LINE></DelayBounce7>
+  <delay><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>89</LINE></delay>
+  <delay1><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>93</LINE></delay1>
+  <tramp5><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>152</LINE></tramp5>
+  <CASE1><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>166</LINE></CASE1>
+  <CASE2><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>175</LINE></CASE2>
+  <CASE3><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>184</LINE></CASE3>
+  <CASE4><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>193</LINE></CASE4>
+  <CASE5><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>202</LINE></CASE5>
+  <tramp1177><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>164</LINE></tramp1177>
+  <tramp10><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>162</LINE></tramp10>
+  <tramp9><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>160</LINE></tramp9>
+  <tramp8><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>158</LINE></tramp8>
+  <tramp7><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>156</LINE></tramp7>
+  <tramp6><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>154</LINE></tramp6>
+  <tramp4><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>150</LINE></tramp4>
+  <tramp2><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>146</LINE></tramp2>
+  <tramp1><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>144</LINE></tramp1>
+  <tramp3><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>148</LINE></tramp3>
+  <DEFAULT><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>142</LINE></DEFAULT>
+  <DONE><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>316</LINE></DONE>
+  <CASE14><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>292</LINE></CASE14>
+  <CASE13><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>282</LINE></CASE13>
+  <CASE15><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>302</LINE></CASE15>
+  <CASE12><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>272</LINE></CASE12>
+  <conteo><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>311</LINE></conteo>
+  <CASE11><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>262</LINE></CASE11>
+  <CASE10><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>251</LINE></CASE10>
+  <CASE9><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>241</LINE></CASE9>
+  <CASE8><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>231</LINE></CASE8>
+  <CASE7><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>221</LINE></CASE7>
+  <CASE6><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>211</LINE></CASE6>
+  <switch1><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>583</LINE></switch1>
+  <delay12><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>330</LINE></delay12>
+  <delay111><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>334</LINE></delay111>
+  <tramp51><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>392</LINE></tramp51>
+  <CASE111><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>406</LINE></CASE111>
+  <CASE21><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>415</LINE></CASE21>
+  <CASE31><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>424</LINE></CASE31>
+  <CASE41><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>433</LINE></CASE41>
+  <CASE51><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>442</LINE></CASE51>
+  <tramp111><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>404</LINE></tramp111>
+  <tramp101><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>402</LINE></tramp101>
+  <tramp91><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>400</LINE></tramp91>
+  <tramp81><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>398</LINE></tramp81>
+  <tramp71><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>396</LINE></tramp71>
+  <tramp61><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>394</LINE></tramp61>
+  <tramp41><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>390</LINE></tramp41>
+  <tramp21><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>386</LINE></tramp21>
+  <tramp11><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>384</LINE></tramp11>
+  <tramp31><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>388</LINE></tramp31>
+  <DEFAULT1><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>382</LINE></DEFAULT1>
+  <DONE1><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>556</LINE></DONE1>
+  <CASE141><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>532</LINE></CASE141>
+  <CASE131><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>522</LINE></CASE131>
+  <CASE151><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>542</LINE></CASE151>
+  <CASE121><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>512</LINE></CASE121>
+  <conteo1><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>551</LINE></conteo1>
+  <CASE1112><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>502</LINE></CASE1112>
+  <CASE101><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>491</LINE></CASE101>
+  <CASE91><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>481</LINE></CASE91>
+  <CASE81><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>471</LINE></CASE81>
+  <CASE71><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>461</LINE></CASE71>
+  <CASE61><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>451</LINE></CASE61>
+  <delay3><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>566</LINE></delay3>
+  <delay13><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>570</LINE></delay13>
+  <tramp556><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>630</LINE></tramp556>
+  <CASE156><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>640</LINE></CASE156>
+  <CASE256><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>647</LINE></CASE256>
+  <CASE356><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>654</LINE></CASE356>
+  <CASE456><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>661</LINE></CASE456>
+  <CASE556><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>668</LINE></CASE556>
+  <CASE656><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>675</LINE></CASE656>
+  <CASE756><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>683</LINE></CASE756>
+  <CASE856><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>690</LINE></CASE856>
+  <ta2><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>636</LINE></ta2>
+  <ta1><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>634</LINE></ta1>
+  <ta><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>632</LINE></ta>
+  <tramp456><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>628</LINE></tramp456>
+  <tramp256><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>624</LINE></tramp256>
+  <tramp156><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>622</LINE></tramp156>
+  <tramp356><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>626</LINE></tramp356>
+  <DEFAULT56><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>620</LINE></DEFAULT56>
+  <DONE56><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>752</LINE></DONE56>
+  <CASE1456><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>733</LINE></CASE1456>
+  <CASE1356><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>726</LINE></CASE1356>
+  <CASE1556><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>740</LINE></CASE1556>
+  <CASE1256><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>719</LINE></CASE1256>
+  <conteo56><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>747</LINE></conteo56>
+  <CASE1156><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>712</LINE></CASE1156>
+  <CASE1056><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>704</LINE></CASE1056>
+  <CASE956><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>697</LINE></CASE956>
+  <delay124><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>763</LINE></delay124>
+  <delay1114><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>767</LINE></delay1114>
+  <tramp5178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>824</LINE></tramp5178>
+  <CASE11178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>838</LINE></CASE11178>
+  <CASE2178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>845</LINE></CASE2178>
+  <CASE3178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>852</LINE></CASE3178>
+  <CASE4178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>859</LINE></CASE4178>
+  <CASE5178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>866</LINE></CASE5178>
+  <tramp11178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>836</LINE></tramp11178>
+  <tramp10178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>834</LINE></tramp10178>
+  <tramp9178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>832</LINE></tramp9178>
+  <tramp8178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>830</LINE></tramp8178>
+  <tramp7178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>828</LINE></tramp7178>
+  <tramp6178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>826</LINE></tramp6178>
+  <tramp4178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>822</LINE></tramp4178>
+  <tramp2178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>818</LINE></tramp2178>
+  <tramp1178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>816</LINE></tramp1178>
+  <tramp3178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>820</LINE></tramp3178>
+  <DEFAULT178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>814</LINE></DEFAULT178>
+  <DONE178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>950</LINE></DONE178>
+  <CASE14178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>931</LINE></CASE14178>
+  <CASE13178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>924</LINE></CASE13178>
+  <CASE15178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>938</LINE></CASE15178>
+  <CASE12178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>917</LINE></CASE12178>
+  <conteo178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>945</LINE></conteo178>
+  <CASE111278><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>910</LINE></CASE111278>
+  <CASE10178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>902</LINE></CASE10178>
+  <CASE9178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>895</LINE></CASE9178>
+  <CASE8178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>888</LINE></CASE8178>
+  <CASE7178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>881</LINE></CASE7178>
+  <CASE6178><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>873</LINE></CASE6178>
+  <delay222><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>963</LINE></delay222>
+  <delay333><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>967</LINE></delay333>
+  <CASE1569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1045</LINE></CASE1569>
+  <CASE2569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1053</LINE></CASE2569>
+  <CASE3569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1061</LINE></CASE3569>
+  <CASE4569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1069</LINE></CASE4569>
+  <CASE5569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1077</LINE></CASE5569>
+  <tamp5><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1040</LINE></tamp5>
+  <tamp4><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1038</LINE></tamp4>
+  <tamp3><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1036</LINE></tamp3>
+  <tamp2><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1034</LINE></tamp2>
+  <tamp1><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1032</LINE></tamp1>
+  <tamp><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1030</LINE></tamp>
+  <tramp4569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1026</LINE></tramp4569>
+  <tramp2569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1022</LINE></tramp2569>
+  <tramp1569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1020</LINE></tramp1569>
+  <tramp3569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1024</LINE></tramp3569>
+  <tramp356910><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1028</LINE></tramp356910>
+  <acarreo><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1042</LINE></acarreo>
+  <DEFAULT569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1018</LINE></DEFAULT569>
+  <DONE569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1184</LINE></DONE569>
+  <CASE14569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1151</LINE></CASE14569>
+  <CASE13569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1143</LINE></CASE13569>
+  <CASE15569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1159</LINE></CASE15569>
+  <CASE12569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1135</LINE></CASE12569>
+  <CASEM><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1167</LINE></CASEM>
+  <CASE11569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1127</LINE></CASE11569>
+  <CASE10569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1118</LINE></CASE10569>
+  <CASE9569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1110</LINE></CASE9569>
+  <CASE8569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1102</LINE></CASE8569>
+  <CASE7569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1094</LINE></CASE7569>
+  <CASE6569><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1085</LINE></CASE6569>
+  <acarreos><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Lab1. sumador 4 bits\lab1\main.asm</FILE><LINE>1175</LINE></acarreos>
+ </LABELS>
+</ASSEMBLER_INFO>
